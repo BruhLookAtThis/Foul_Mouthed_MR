@@ -24,4 +24,4 @@ UPDATE 1.0.1 (6-6-2026)
 
 Foul-Mouthed Ultron (S8) (v1.3i)
 - Replaced an INSANE voiceline, even though it was censored, to a safer version
-- Removed `No N Word` version, as it can be grabbed [here now](https://www.nexusmods.com/marvelrivals/mods/9407) 
+- Removed `No N Word` version, as it can be grabbed [here on Nexusmods now](https://www.nexusmods.com/marvelrivals/mods/9407) 
