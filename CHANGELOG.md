@@ -37,6 +37,7 @@ Foul-Mouthed Hela (S8) (v2.1)
 
 ### NOTE
 - I will make this same change for Ultron later, I know his shih worse than Helas
+- (Just realized the line I edited in Update 1.0.1 will have to be revised AGAIN)
 - I removed all uploaded videos of Hela, Ultron, and the Foul Mouthed Samples v2 for this same reason
 - I personally haven't seen anybody wile out with these specific lines, but this just a precaution
 - (Nah but fr I lowkey did too much with those. And I know cause the characters released later didnt have this typa shih no more)
