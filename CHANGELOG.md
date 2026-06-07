@@ -41,3 +41,10 @@ Foul-Mouthed Hela (S8) (v2.1)
 - I removed all uploaded videos of Hela, Ultron, and the Foul Mouthed Samples v2 for this same reason
 - I personally haven't seen anybody wile out with these specific lines, but this just a precaution
 - (Nah but fr I lowkey did too much with those. And I know cause the characters released later didnt have this typa shih no more)
+
+- ---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0.3 (6-6-2026 - later in the day)
+
+Foul-Mouthed Ultron (S8) (v1.4)
+- Replaced multiple lines with some that are more suitable for the general public. Dont want yall getting in trouble lol
