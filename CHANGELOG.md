@@ -21,10 +21,19 @@ File Versioning upon this initial github upload:
 ---------------------------------------------------------------------------------------------------------
 UPDATE 1.0.1 (6-6-2026)
 
-Foul-Mouthed Ultron (S8) (v1.3i)
-- Replaced one line I personally wasn't comfortable with anymore
-- Removed `No N Word` version, as it can be grabbed [here on Nexusmods now](https://www.nexusmods.com/marvelrivals/mods/9407) 
-
 Foul-Mouthed Jeff (S8) (v1.4)
 - Added more voice lines
-- Replaced one line I personally wasn't comfortable with anymore
+- Replaced one line I personally wasnt comfortable with anymore
+
+Foul-Mouthed Ultron (S8) (v1.3i)
+- Replaced one line I personally wasnt comfortable with anymore
+- Removed `No N Word` version, as it can be grabbed [here on Nexusmods now](https://www.nexusmods.com/marvelrivals/mods/9407)
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+UPDATE 1.0.2 (6-6-2026 - later in the day)
+
+Foul-Mouthed Hela (S8) (v2.1)
+- Replaced multiple lines with some that are more suitable for the general public. Dont want yall getting in trouble lol
+
+NOTE: I will make this same change for Ultron later, I know his shih worse than Helas
