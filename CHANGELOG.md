@@ -48,3 +48,10 @@ Foul-Mouthed Hela (S8) (v2.1)
 
 Foul-Mouthed Ultron (S8) (v1.4)
 - Replaced multiple lines with some that are more suitable for the general public. Dont want yall getting in trouble lol
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0. (6-6-2026 - later in the day)
+
+Foul-Mouthed Hela (S8) (v2.1b)
+- Fixed an interaction with Star-Lord that was slightly odd
