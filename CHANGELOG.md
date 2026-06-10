@@ -37,3 +37,12 @@ Foul-Mouthed Ultron (S8) (v1.3i)
 Foul-Mouthed Ultron (S8) (v1.4)
 - Replaced multiple lines with some that are more suitable for the general public. Dont want yall getting in trouble lol
 
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0.2 (6-9-2026)
+
+Foul-Mouthed Samples (S8) (v3.3)
+- Removed Scarlet Witch for now. Needa bring her inline with the Hela/Ultron changes. Imma prolly think of sumn else though...
+- Removed Hulk for now. Needa bring him inline with the Hela/Ultron changes. Again, imma prolly thinka sumn else
+- Changed Spidey Player/Enemy Ult. Same deal as Ultron/Hela, toning some stuff down
+- Changed Invis Player/Enemy Ult. Kinda same deal as Ultron/Hela, but I also just like the new one better, matches her full mod better
