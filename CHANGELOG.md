@@ -59,6 +59,12 @@ Foul-Mouthed Samples (S8.5) (v3.3b)
 - Added back Friendly Scarlet Witch Ult
 - Still need to come up with something for their other Ults (I havent been working on that at all lol Playing 007 First Light)
 
-Foul-Mouthed Ultron
+Foul-Mouthed Ultron (S8.5) (v1.4b)
 - Swapped a Normal KO line to something else (I forgot lol)
 - Replaced that Normal KO line with a better one, in my opinion
+
+Foul-Mouthed CnD Akst (S8.5) (v1.4b)
+- Shortened "Akatsuki" to "akst" in all names
+- This is to help avoid any long path name errors (never got any complaints about this for released mods, but just in case)
+
+NOTE: This release is NOT heavily tested. Busy. Lmk if there are any mistake, had to reconfigure my Streamlined Mod Updating setup. Lotta moving parts.
