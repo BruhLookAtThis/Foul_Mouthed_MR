@@ -46,3 +46,19 @@ Foul-Mouthed Samples (S8) (v3.3)
 - Removed Hulk for now. Needa bring him inline with the Hela/Ultron changes. Again, imma prolly thinka sumn else
 - Changed Spidey Player/Enemy Ult. Same deal as Ultron/Hela, toning some stuff down
 - Changed Invis Player/Enemy Ult. Kinda same deal as Ultron/Hela, but I also just like the new one better, matches her full mod better
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0.3 (6-12-2026)
+
+General
+- ALL Foul-Mouthed Updated for Season 8.5
+
+Foul-Mouthed Samples (S8.5) (v3.3b)
+- Added back Player/Enemy Hulk Ult
+- Added back Friendly Scarlet Witch Ult
+- Still need to come up with something for their other Ults (I havent been working on that at all lol Playing 007 First Light)
+
+Foul-Mouthed Ultron
+- Swapped a Normal KO line to something else (I forgot lol)
+- Replaced that Normal KO line with a better one, in my opinion
