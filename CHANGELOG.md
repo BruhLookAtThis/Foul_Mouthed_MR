@@ -68,7 +68,7 @@ Foul-Mouthed Ultron (S8.5) (v1.4c)
 - Added to these OG versions
 
 Foul-Mouthed CnD Akst (S8.5) (v1.4b)
-- Shortened "Akatsuki" to "akst" in all names
+- Shortened "Akatsuki" to "Akst" in all names
 - This is to help avoid any long path name errors (never got any complaints about this for released mods, but just in case)
 
 NOTE: This release is NOT heavily tested. Busy. Lmk if there are any mistake, had to reconfigure my Streamlined Mod Updating setup. Lotta moving parts.
