@@ -63,6 +63,10 @@ Foul-Mouthed Ultron (S8.5) (v1.4b)
 - Swapped a Normal KO line to something else (I forgot lol)
 - Replaced that Normal KO line with a better one, in my opinion
 
+Foul-Mouthed Ultron (S8.5) (v1.4c)
+- Realized I only added the new KO line to the Kinda Foul Ultron mod lol
+- Added to these OG versions
+
 Foul-Mouthed CnD Akst (S8.5) (v1.4b)
 - Shortened "Akatsuki" to "akst" in all names
 - This is to help avoid any long path name errors (never got any complaints about this for released mods, but just in case)
