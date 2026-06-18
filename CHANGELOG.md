@@ -82,3 +82,6 @@ General
 
 Foul Mouthed Ultron (S8.5) (v1.5)
 - Replaced more lines. He should be good for the foreseeable future now
+
+Foul Mouthed Ultron (S8.5) (v1.5b)
+- Fixed a subtitle for Ultron (after killing Spider-Man)
