@@ -85,3 +85,10 @@ Foul Mouthed Ultron (S8.5) (v1.5)
 
 Foul Mouthed Ultron (S8.5) (v1.5b)
 - Fixed a subtitle for Ultron (after killing Spider-Man)
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0.5 (6-18-2026)
+
+General
+- Removed Invisible Woman from Foul-Mouthed Samples (forgot to do this last update)
