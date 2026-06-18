@@ -72,3 +72,13 @@ Foul-Mouthed CnD Akst (S8.5) (v1.4b)
 - This is to help avoid any long path name errors (never got any complaints about this for released mods, but just in case)
 
 NOTE: This release is NOT heavily tested. Busy. Lmk if there are any mistake, had to reconfigure my Streamlined Mod Updating setup. Lotta moving parts.
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0.4 (6-17-2026)
+
+General
+- Added Foul-Mouthed Invis (S8.5) (v1)
+
+Foul Mouthed Ultron (S8.5) (v1.5)
+- Replaced more lines. He should be good for the foreseeable future now
