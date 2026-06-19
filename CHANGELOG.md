@@ -92,3 +92,10 @@ Foul Mouthed Ultron (S8.5) (v1.5b)
 
 General
 - Removed Invisible Woman from Foul-Mouthed Samples (forgot to do this last update)
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0.6 (6-18-2026)
+
+Foul Mouthed Ultron (S8.5) (v1.6)
+- Replaced MVP with the Kinda Foul Ultron version. Juuuust in case.
