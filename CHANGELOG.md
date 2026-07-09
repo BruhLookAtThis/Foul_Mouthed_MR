@@ -116,3 +116,11 @@ Foul-Mouthed Mantis (S8.5) (v1.8b)
 
 Foul-Mouthed Ultron (S8.5) (v1.6b)
 - Fixed some typos
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0.8 (7-9-2026)
+
+Foul-Mouthed Hela (S8.5) (v2.2)
+- Replaced remaining voicelines (that I feel like doing atm)
+- Remade some lines
