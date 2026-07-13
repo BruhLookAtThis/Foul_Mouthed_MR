@@ -130,16 +130,16 @@ Foul-Mouthed Hela (S8.5) (v2.2)
 ### UPDATE 1.0.9 (7-12-2026)
 
 Updated these mods to Season 9
-- Foul-Mouthed DareDevil (S9) (v1.2) - Video Here
-- Foul-Mouthed Emma (S9) (v1.3) - Video Here
-- Foul-Mouthed Gambit (S9) (v1.2) - Video Here
-- Foul-Mouthed Hela (S9) (v2.3) - Video
-- Foul-Mouthed Invis (S9) (v1.1) - Video Here
-- Foul-Mouthed Jeff (S9) (v1.5) - Video Here
-- Foul-Mouthed Loki (S9) (v1.2) - Video Here
-- Foul-Mouthed Luna (S9) (v1.2) - Video Here
-- Foul-Mouthed Mantis (S9) (v1.9) - Video Here
-- Foul-Mouthed Ultron (S9) (v1.7) - Video Here
+- Foul-Mouthed DareDevil (S9) (v1.2)
+- Foul-Mouthed Emma (S9) (v1.3)
+- Foul-Mouthed Gambit (S9) (v1.2)
+- Foul-Mouthed Hela (S9) (v2.3)
+- Foul-Mouthed Invis (S9) (v1.1)
+- Foul-Mouthed Jeff (S9) (v1.5)
+- Foul-Mouthed Loki (S9) (v1.2)
+- Foul-Mouthed Luna (S9) (v1.2)
+- Foul-Mouthed Mantis (S9) (v1.9)
+- Foul-Mouthed Ultron (S9) (v1.7)
 
 Created Foul-Mouthed NPCs (S9) (v1)
 - This is just Galacta and other NPCs
@@ -148,3 +148,9 @@ Created Foul-Mouthed NPCs (S9) (v1)
 Mods that are NOT Updated
 - Foul-Mouthed Samples (wrapping up other mods first, will get to this later)
 - Foul-Mouthed Akatsuki CnD (revamping the majority of this mod. Will update when Im finished)
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0.9b (7-12-2026)
+
+- Updated Foul-Mouthed Samples (S9) (v3.4)
