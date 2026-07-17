@@ -1,5 +1,6 @@
 # Foul_Mouthed_MR
 Repository for all of BruhLookAtThis's Foul-Mouthed Marvel Rivals mods
+Also contains Kinda Foul-Mouthed mods that were removed from modding websites
 
 ## Author Notes
 - This is a personal project made for **FUN**. Do not expect professional quality
