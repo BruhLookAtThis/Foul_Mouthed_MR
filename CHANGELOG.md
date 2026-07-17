@@ -127,7 +127,7 @@ Foul-Mouthed Hela (S8.5) (v2.2)
 
 ---------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------
-### UPDATE 1.0.9 (7-12-2026)
+### UPDATE 1.0.9b (7-12-2026)
 
 Updated these mods to Season 9
 - Foul-Mouthed DareDevil (S9) (v1.2)
@@ -154,3 +154,10 @@ Mods that are NOT Updated
 ### UPDATE 1.0.9b (7-12-2026)
 
 - Updated Foul-Mouthed Samples (S9) (v3.4)
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0.9c (7-17-2026)
+
+Added Kinda Foul-Mouthed Hela (S9) (v2.3) to downloads
+- Original upload on Nexusmods was removed by Moderators. Tsk tsk, even nerfed, Hela is too evil!
