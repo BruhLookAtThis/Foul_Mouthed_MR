@@ -174,6 +174,7 @@ Updated Foul-Mouthed Samples (S9) (v3.4b)
 ---------------------------------------------------------------------------------------------------------
 ### UPDATE 1.0.9e (7-24-2026)
 
-Updated all mods for the Thebes update EXCEPT Foul-Mouthed Samples
+- Updated all mods for the Thebes update EXCEPT Foul-Mouthed Samples
+- Removed Foul-Mouthed Akatsuki CnD (For Now)
 
 NOTE: This is NOT heavily tested!  
