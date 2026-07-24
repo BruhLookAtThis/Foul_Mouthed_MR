@@ -169,3 +169,11 @@ Added Kinda Foul-Mouthed Hela (S9) (v2.3) to downloads
 Updated Foul-Mouthed Samples (S9) (v3.4b)
 - Remade the .pakd with the latest voice files.
   - Noticed Punisher and Jubilee interactions were bugged, so just remade everybodys mods just in case
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.0.9e (7-24-2026)
+
+Updated all mods for the Thebes update EXCEPT Foul-Mouthed Samples
+
+NOTE: This is NOT heavily tested!  
