@@ -21,7 +21,7 @@ Also contains Kinda Foul-Mouthed mods that were removed from modding websites
 - **NOT ALL** lines may be replaced. I'll get to them **WHEN** I get to them **IF** I get to them
 - Subtitles **CAN "BREAK"** if new voice lines are added to the game for that character
 - This mod was made **FOR FUN**, with all lines being recorded on my phone's mic, so don't expect Sennheiser quality
-- **NOT** taking requests. I already know how that mess goes lol
+- **NOT** taking requests. I already plan to make versions of this mod for every playable character + some NPCs
   
 ## WANT TO MAKE YOUR OWN SOUND MODS?:
 Watch my guide here: How To Make Sound Mods In Marvel Rivals
