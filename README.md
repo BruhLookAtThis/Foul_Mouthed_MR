@@ -13,7 +13,7 @@ https://www.nexusmods.com/profile/BruhLookAtThis/mods?gameId=7106
 ## DISCLAIMERS:
 - This mod and the mod creator (me) are in **NO WAY AFFILIATED WITH OFFICIAL MARVEL/MARVEL RIVALS CONTENT OR PARTIES**
 - This mod was made **COMPLETELY FOR FREE**. Donations are **ACCEPTED** but **NEVER** required
-- This mod was made by feeding **MY PERSONALLY RECORDED VOICE CLIPS** into **100% FREE OFFLINE** AI tools (Mangio-RVC and RVC-GUI)
+- This mod was made by feeding **MY PERSONALLY RECORDED VOICE CLIPS** into a **100% FREE OFFLINE** AI tool (RVC-GUI)
 - This mod's voice clips are **ONLY** uploaded by me for use in **MARVEL RIVALS**. They **STRICTLY** will **NEVER** be used/uploaded by me for any other product.
 - This mod's continued existence/production is at the mercy of NetEase/Marvel/the official Voice Actors. If they say stop, **then GGs**, it was fun while it lasted (**PLEASE** tho gang, let us have this little bit of fun!)
 
