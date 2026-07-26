@@ -18,7 +18,6 @@ https://www.nexusmods.com/profile/BruhLookAtThis/mods?gameId=7106
 - This mod's continued existence/production is at the mercy of NetEase/Marvel/the official Voice Actors. If they say stop, **then GGs**, it was fun while it lasted (**PLEASE** tho gang, let us have this little bit of fun!)
 
 ## CREATOR NOTES:
-- This upload is a softened version of my original Foul-Mouthed mod series
 - **ALL** custom lines are made by applying AI to **MY voice clips**
 - **ALL** custom lines are brainstormed AND written by me (There **ARE** some direct/rephrased quotes - Bonus points if you catch 'em!)
 - **ALL** custom lines are subject to change
