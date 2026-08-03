@@ -178,3 +178,11 @@ Updated Foul-Mouthed Samples (S9) (v3.4b)
 - Removed Foul-Mouthed Akatsuki CnD (For Now)
 
 NOTE: This is NOT heavily tested!  
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.1.0 (8-3-2026)
+
+Updated Foul-Mouthed Gambit (S9) (v1.4)
+
+NOTE: This is NOT heavily tested!  
