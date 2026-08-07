@@ -186,3 +186,14 @@ NOTE: This is NOT heavily tested!
 Updated Foul-Mouthed Gambit (S9) (v1.4)
 
 NOTE: This is NOT heavily tested!  
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.1.2 (08-07-2026)
+
+- Updated (almost) all Kinda/Foul-Mouthed mods for Season 9.5
+- Foul Mouthed NPCs will be updated after I finish uploading its new video
+- Foul Mouthed Luna MAY have some subtitles for lines that arent added yet
+- Foul-Mouthed Akatsuki Cloak and Dagger is finished, recording/writing-wise, just need to get footage for their video now and edit that
+
+NOTE: This is NOT heavily tested!  
