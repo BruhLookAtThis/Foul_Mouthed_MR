@@ -196,4 +196,12 @@ NOTE: This is NOT heavily tested!
 - Foul Mouthed Luna MAY have some subtitles for lines that arent added yet
 - Foul-Mouthed Akatsuki Cloak and Dagger is finished, recording/writing-wise, just need to get footage for their video now and edit that
 
-NOTE: This is NOT heavily tested!  
+NOTE: This is NOT heavily tested!
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.1.3 (08-09-2026)
+
+- Updated Foul-Mouthed NPCs (v1c)
+
+NOTE: This is NOT heavily tested!
