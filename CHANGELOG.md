@@ -205,3 +205,17 @@ NOTE: This is NOT heavily tested!
 - Updated Foul-Mouthed NPCs (v1c)
 
 NOTE: This is NOT heavily tested!
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.1.4 (08-11-2026)
+
+Updated Foul-Mouthed Hela (v2.4)
+- Re-recorded 6 low-quality lines
+- Replaced some lines with their Kinda Foul counterparts
+  - Quality was trash, and they had already been re-recorded for the Kinda Foul Hela mod, so I just saved some time and borrowed that versions iterations
+
+Updated Kinda Foul-Mouthed Hela (v2.4)
+- Re-recorded 6 low-quality lines
+
+NOTE: This is NOT heavily tested!
