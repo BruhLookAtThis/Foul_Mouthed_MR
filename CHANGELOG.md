@@ -219,3 +219,11 @@ Updated Kinda Foul-Mouthed Hela (v2.4)
 - Re-recorded 6 low-quality lines
 
 NOTE: This is NOT heavily tested!
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+### UPDATE 1.1.5 (08-19-2026)
+
+- Updated & Revamped Foul-Mouthed Akatsuki CnD (v2)
+
+NOTE: This is NOT heavily tested!
