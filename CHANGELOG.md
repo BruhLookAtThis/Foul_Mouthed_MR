@@ -227,3 +227,27 @@ NOTE: This is NOT heavily tested!
 - Updated & Revamped Foul-Mouthed Akatsuki CnD (v2)
 
 NOTE: This is NOT heavily tested!
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+UPDATE 1.1.6 (09-DD-2026) (NOT RELEASED YET, `BUG TESTING`)
+### 
+
+Updated Foul Mouthed Luna to v1.4
+- Revamped a large portion of her voice lines
+- Added more Korean lines/replaced existing lines with new ones that contain Korean
+- Replaced lines added in Season 9/9.5
+
+Updated Foul Mouthed Gambit to v1.4c
+- Replaced a `buff_purge` voice line with `"*Phew* Wipe Me Down!"` (dont ask me why this wasnt there to bein with lmao)
+
+NOTE: This is NOT heavily tested!
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+UPDATE X.X.X (MM-DD-YYYY) (NOT RELEASED YET, `BUG TESTING`)
+### 
+
+
+
+NOTE: This is NOT heavily tested!
