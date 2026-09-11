@@ -234,7 +234,7 @@ UPDATE 1.1.6 (09-11-2026)
 ### 
 
 - Updated Almost All Mods To Their Season 10 Files
-  - Emma, Luna, Samples, and Magik need more time
+  - Emma, Luna, and Samples need more time
 - Updated Foul Mouthed Gambit to v1.4c
   - Replaced a `buff_purge` voice line with `"*Phew* Wipe Me Down!"` (dont ask me why this wasnt there to bein with lmao)
 - Swapped a line for Foul Mouth Invis
