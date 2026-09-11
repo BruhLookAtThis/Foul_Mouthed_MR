@@ -233,8 +233,10 @@ NOTE: This is NOT heavily tested!
 UPDATE 1.1.6 (09-11-2026)
 ### 
 
-- Updated Almost All Mods To Their Season 10 Files
-  - Emma, Luna, and Samples need more time
+- Updated All Mods To Their Season 10 Files
+- Updated Foul Mouthed Luna to v1.4
+  - Revamped a large portion of her voice lines
+  - Added more Korean lines/replaced existing lines with new ones that contain Korean
 - Updated Foul Mouthed Gambit to v1.4c
   - Replaced a `buff_purge` voice line with `"*Phew* Wipe Me Down!"` (dont ask me why this wasnt there to bein with lmao)
 - Swapped a line for Foul Mouth Invis
@@ -246,9 +248,6 @@ NOTE: This is NOT heavily tested!
 UPDATE X.X.X (MM-DD-YYYY) (NOT RELEASED YET, `BUG TESTING`)
 ### 
 
-Updated Foul Mouthed Luna to v1.4
-- Revamped a large portion of her voice lines
-- Added more Korean lines/replaced existing lines with new ones that contain Korean
-- Replaced lines added in Season 9/9.5
+
 
 NOTE: This is NOT heavily tested!
