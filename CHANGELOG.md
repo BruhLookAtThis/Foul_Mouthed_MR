@@ -253,6 +253,16 @@ NOTE: This is NOT heavily tested!
 
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
+### UPDATE 1.1.8 (09-25-2026)
+
+- Updated All Mods For God Quarry Map
+- Add `ALL` download
+  - Contains all releases separated only by Volume level (and a separated Subtitles bundle) for quick drag/drop updating
+
+NOTE: This is NOT heavily tested!
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 ### UPDATE X.X.X (MM-DD-YYYY) (NOT RELEASED YET, `BUG TESTING`)
 
 
