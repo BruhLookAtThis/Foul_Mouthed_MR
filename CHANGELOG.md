@@ -274,7 +274,21 @@ NOTE: This is NOT heavily tested!
 ### UPDATE 1.2.0 (10-8-2026)
 
 - Updated Foul Mouthed Loki to v1.4
-  - Updated All Foul Mods bundle with these new files
+- Updated All Foul Mods bundle with these new files
+
+NOTE: This is NOT heavily tested!
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+### UPDATE 1.2.1 (10-11-2026)
+
+- Updated Foul Mouthed Jeff to v1.6
+  - Replaced Teamup lines
+  - Replaced other new lines
+  - Replaced Ult charge, payload ping, and more older lines
+  - Re-recorded some lines
+  - NOTE: Some new replaced lines cut off sometimes. Not sure why, likely cause they were never supposed to last that long. Not going to fix this (cause I dont know how and dont got time to figure it out, if its even possible)
+- Updated All Foul Mods bundle with these new files
 
 NOTE: This is NOT heavily tested!
 
