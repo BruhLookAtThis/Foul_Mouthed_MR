@@ -294,6 +294,36 @@ NOTE: This is NOT heavily tested!
 
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
+### UPDATE 1.2.2 (10-13-2026)
+
+- Updated Foul Mouthed Ultron to v1.8
+  - Replaced Teamup lines
+  - Replaced other new lines
+  - Replaced Ult charge, payload ping, and more older lines
+  - Re-recorded some lines
+  - NOTE: Some new replaced lines cut off sometimes (particularly in custom games). Not sure why. Not going to fix this (cause I dont know how and dont got time to figure it out, if its even possible)
+- Updated Foul Mouthed Luna to v1.5
+  - Replaced new lines
+- Updated All Foul Mods bundle with these new files
+
+NOTE: This is NOT heavily tested!
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+### UPDATE 1.2.3 (10-??-2026) (NOT RELEASED YET, `BUG TESTING`)
+
+- Updated Foul Mouthed Mantis to v2
+  - Replaced Teamup lines
+  - Replaced other new lines
+  - Replaced Ult charge and more older lines
+  - Re-recorded some lines
+  - NOTE: Some new replaced lines cut off sometimes (particularly in custom games). Not sure why. Not going to fix this (cause I dont know how and dont got time to figure it out, if its even possible)
+- Updated All Foul Mods bundle with these new files
+
+NOTE: This is NOT heavily tested!
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 ### UPDATE X.X.X (MM-DD-YYYY) (NOT RELEASED YET, `BUG TESTING`)
 
 
