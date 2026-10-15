@@ -310,13 +310,27 @@ NOTE: This is NOT heavily tested!
 
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
-### UPDATE 1.2.3 (10-??-2026) (NOT RELEASED YET, `BUG TESTING`)
+### UPDATE 1.2.3 (10-15-2026)
 
 - Updated Foul Mouthed Mantis to v2
   - Replaced Teamup lines
   - Replaced other new lines
   - Replaced Ult charge and more older lines
   - Re-recorded some lines, including an interaction with Ultron
+  - NOTE: Some new replaced lines cut off sometimes (particularly in custom games). Not sure why. Not going to fix this (cause I dont know how and dont got time to figure it out, if its even possible)
+- Updated All Foul Mods bundle with these new files
+
+NOTE: This is NOT heavily tested!
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+### UPDATE 1.2.4 (10-??-2026) (NOT RELEASED YET, `BUG TESTING`)
+
+- Updated Foul Mouthed Invis to v1.2
+  - Replaced Teamup lines
+  - Replaced other new lines
+  - Replaced Ult charge and more older lines
+  - Re-recorded some lines, including ability and enemy spotted voice clip(s)
   - NOTE: Some new replaced lines cut off sometimes (particularly in custom games). Not sure why. Not going to fix this (cause I dont know how and dont got time to figure it out, if its even possible)
 - Updated All Foul Mods bundle with these new files
 
