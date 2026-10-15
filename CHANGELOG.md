@@ -316,7 +316,7 @@ NOTE: This is NOT heavily tested!
   - Replaced Teamup lines
   - Replaced other new lines
   - Replaced Ult charge and more older lines
-  - Re-recorded some lines
+  - Re-recorded some lines, including an interaction with Ultron
   - NOTE: Some new replaced lines cut off sometimes (particularly in custom games). Not sure why. Not going to fix this (cause I dont know how and dont got time to figure it out, if its even possible)
 - Updated All Foul Mods bundle with these new files
 
