@@ -324,7 +324,7 @@ NOTE: This is NOT heavily tested!
 
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
-### UPDATE 1.2.4 (10-??-2026) (NOT RELEASED YET, `BUG TESTING`)
+### UPDATE 1.2.4 (10-16-2026) (NOT RELEASED YET, `BUG TESTING`)
 
 - Updated Foul Mouthed Invis to v1.2
   - Replaced Teamup lines
@@ -332,7 +332,7 @@ NOTE: This is NOT heavily tested!
   - Replaced Ult charge and more older lines
   - Re-recorded some lines, including ability and enemy spotted voice clip(s)
   - NOTE: Some new replaced lines cut off sometimes (particularly in custom games). Not sure why. Not going to fix this (cause I dont know how and dont got time to figure it out, if its even possible)
-- Updated All Foul Mods bundle with these new files
+- Updated All Foul Mods bundle to v1h, adding these new files
 
 NOTE: This is NOT heavily tested!
 
