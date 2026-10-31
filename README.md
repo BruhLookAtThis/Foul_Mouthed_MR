@@ -1,8 +1,4 @@
 # I HAVE MOVED ALL FOUL-MOUTHED MODS TO [MY PATREON](<https://www.patreon.com/cw/BruhLookAtThis>). EVERYTHING IS STILL FREE BTW
-# I HAVE MOVED ALL FOUL-MOUTHED MODS TO [MY PATREON](<https://www.patreon.com/cw/BruhLookAtThis>). EVERYTHING IS STILL FREE BTW
-# I HAVE MOVED ALL FOUL-MOUTHED MODS TO [MY PATREON](<https://www.patreon.com/cw/BruhLookAtThis>). EVERYTHING IS STILL FREE BTW
-# I HAVE MOVED ALL FOUL-MOUTHED MODS TO [MY PATREON](<https://www.patreon.com/cw/BruhLookAtThis>). EVERYTHING IS STILL FREE BTW
-# I HAVE MOVED ALL FOUL-MOUTHED MODS TO [MY PATREON](<https://www.patreon.com/cw/BruhLookAtThis>). EVERYTHING IS STILL FREE BTW
 
 # Foul_Mouthed_MR
 Repository for all of BruhLookAtThis's Foul-Mouthed Marvel Rivals mods
