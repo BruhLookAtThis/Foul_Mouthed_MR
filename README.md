@@ -27,9 +27,6 @@ https://www.nexusmods.com/profile/BruhLookAtThis/mods?gameId=7106
 - **NOT** taking requests. I already know how that mess goes lol
 - I plan to mod **EVERY** playable character + some NPCs, but it all depends on my interest being retained.
 
-## TO DO:
--Whip up replacements for the Season 9 lines
-
 ## Contact
 - Discord: https://discordapp.com/users/bruhlookatthis
 - X: https://x.com/BruhIookAtThis
