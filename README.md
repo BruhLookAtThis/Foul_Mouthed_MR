@@ -26,10 +26,6 @@ https://www.nexusmods.com/profile/BruhLookAtThis/mods?gameId=7106
 - This mod was made **FOR FUN**, with all lines being recorded on my phone's mic, so don't expect Sennheiser quality
 - **NOT** taking requests. I already know how that mess goes lol
 - I plan to mod **EVERY** playable character + some NPCs, but it all depends on my interest being retained.
-  
-## WANT TO MAKE YOUR OWN SOUND MODS?:
-Watch my guide here: How To Make Sound Mods In Marvel Rivals
-https://youtu.be/f-tX83RTZpc
 
 ## TO DO:
 -Whip up replacements for the Season 9 lines
